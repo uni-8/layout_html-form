@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,YACE,kBACF,CAEA,qBAEE,kBACF,CAEA,yDAGE,eACF","file":"style.974f7810.css","sourceRoot":"..\\src","sourcesContent":[".info_block {\n  margin-bottom: 20px;\n}\n\n.info_block > *,\n.field {\n  margin-bottom: 10px;\n}\n\n.without_margin,\n.field:last-child,\n.info_block:last-child {\n  margin-bottom: 0;\n}\n"]}
